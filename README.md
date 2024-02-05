@@ -1,11 +1,15 @@
 ##################################################
+
 ########## WELCOME TO LARRY'S ADVENTURE ##########
+
 ##################################################
 
 /// Important ///
 
 To run correctly the code, you may to install two libraries :
+
 	-Pygame
+ 
 	-Pywin32
 
 
